@@ -1,2 +1,2 @@
 # Machine_learning
-excersizes from machine learning course
+exercises from machine learning course
